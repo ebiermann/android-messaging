@@ -10,4 +10,4 @@ To run this demo follow these steps:
 3) Deploy EAR from android-messaging-ear/target to your JBoss AS7
 4) Copy the JBoss configuration from android-messaging-parent/src/main/resources to $JBOSS_HOME/standalone/configuration
 5) Launch standalone.{sh|bat}
-6) Start activity MessagingActivity
+6) Start activity MessagingActivity  
