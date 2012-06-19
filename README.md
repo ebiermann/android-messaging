@@ -1,5 +1,7 @@
 android-messaging
 =================
+This project demonstrates the use of the Stomp Protocol(stomp.github.com/) on an Android device.
+
 You have to manually add stompj-0.5.jar as a dependency for android-messaging-client.
 
 To run this demo follow these steps:
